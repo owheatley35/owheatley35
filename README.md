@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @owheatley35
-- 👀 I’m interested in building cool shit, adrenaline and anything else that sounds different to others.
-- 🌱 I’m currently learning EVERYTHING
+- 👀 I’m interested in building cool shit, adrenaline and anything else that sounds crazy
 
 <!---
 owheatley35/owheatley35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
